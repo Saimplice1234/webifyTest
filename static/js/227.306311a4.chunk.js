@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebify=self.webpackChunkwebify||[]).push([[227],{9227:function(e,c,f){e.exports=f.p+"static/media/13.2f3cec1325f9dc360ebf.md"}}]);
